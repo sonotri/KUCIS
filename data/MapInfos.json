@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"메인","order":1,"parentId":0,"scrollX":738.8571428571428,"scrollY":532.2857142857142},
+{"id":2,"expanded":false,"name":"Stage1. 푸른 링크의 호수","order":2,"parentId":0,"scrollX":632.5714285714286,"scrollY":523.7142857142857},
+{"id":3,"expanded":false,"name":"Stage2. 노을빛 익명 게시판","order":8,"parentId":0,"scrollX":408,"scrollY":312},
+{"id":4,"expanded":false,"name":"Stage3. 보랏빛 AI 마법탑","order":3,"parentId":0,"scrollX":408,"scrollY":312},
+{"id":5,"expanded":false,"name":"Stage4. 초록빛 포렌식 숲","order":4,"parentId":0,"scrollX":408,"scrollY":312},
+{"id":6,"expanded":false,"name":"Stage5. 루비빛 메모리 성","order":5,"parentId":0,"scrollX":408,"scrollY":312},
+{"id":7,"expanded":false,"name":"Stage6. 주황빛의 관제 시계탑","order":6,"parentId":0,"scrollX":408,"scrollY":312},
+{"id":8,"expanded":true,"name":"Ending Credits","order":7,"parentId":0,"scrollX":0,"scrollY":0}
+]
