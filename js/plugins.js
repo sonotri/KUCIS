@@ -8,5 +8,6 @@ var $plugins =
 {"name":"KUCIS_BadgePopup","status":true,"description":"Shows a centered badge popup above the game screen.","parameters":{}},
 {"name":"KUCIS_PlayerMoveSpeed","status":true,"description":"Sets a calmer walking speed on the hub map.","parameters":{}},
 {"name":"KUCIS_EndingCredits","status":true,"description":"Opens the guardian form and shows the final scrolling credits.","parameters":{}},
-{"name":"KUCIS_SkipTitle","status":true,"description":"Starts the game directly on the map instead of showing the title screen.","parameters":{}}
+{"name":"KUCIS_SkipTitle","status":true,"description":"Starts the game directly on the map instead of showing the title screen.","parameters":{}},
+{"name":"KUCIS_FitWindow","status":true,"description":"Fits the game canvas to the browser window while preserving aspect ratio.","parameters":{}}
 ];
