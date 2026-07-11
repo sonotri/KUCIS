@@ -63,7 +63,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/yebbis">
-        <img src="https://github.com/jenna8225" width="96" alt="bage2room" /><br />
+        <img src="https://github.com/jenna8225" width="96" alt="jenna8225" /><br />
         <strong>Yebbi</strong>
       </a><br />
       <sub> Development · Design</sub>
