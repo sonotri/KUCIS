@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>마법소녀가 되어 사이버 세상을 지켜라!</strong><br />
-  7월 8일 정보보호의 날 기념 체험형 보안 미니게임
-</p>
-
-<p align="center">
   <a href="https://ctf.swuswing.com/"><strong>게임 플레이하기</strong></a>
 </p>
 
@@ -19,7 +14,7 @@
 
 **KUCIS Security RPG**는 정보보호와 개인정보보호 개념을 쉽고 재미있게 전달하기 위해 제작한 RPG Maker MZ 기반 웹 미니게임입니다.
 
-플레이어는 **Lumina Station**에서 보안 마법소녀가 되어 어둠의 마법에 오염된 6개의 Security 월드를 탐험합니다. 각 월드의 문제를 해결하면 보안 크리스탈과 배지를 획득할 수 있으며, 모든 배지를 모으면 최종 칭호 **사이버 수호자**가 수여됩니다.
+플레이어는 **Lumina Station**에서 보안 마법소녀가 되어 어둠의 마법에 오염된 6개의 Security 월드를 탐험합니다. 각 월드의 문제를 해결하면 보안 크리스탈과 배지를 획득할 수 있으며 모든 배지를 모으면 최종 칭호 **사이버 수호자**가 수여됩니다.
 
 <br />
 
@@ -65,6 +60,13 @@
         <strong>Yebbi</strong>
       </a><br />
       <sub>Planning · Development · Design<br />Security Scenario</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/yebbis">
+        <img src="https://github.com/jenna8225" width="96" alt="bage2room" /><br />
+        <strong>Yebbi</strong>
+      </a><br />
+      <sub> Development · Design</sub>
     </td>
   </tr>
 </table>
