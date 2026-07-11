@@ -62,7 +62,7 @@
       <sub>Planning · Development · Design<br />Security Scenario</sub>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/jenna8225https://github.com/yebbis">
+      <a href="https://github.com/jenna8225">
         <img src="https://github.com/jenna8225.png" width="96" alt="jenna8225" /><br />
         <strong>bage2room</strong>
       </a><br />
