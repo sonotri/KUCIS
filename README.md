@@ -15,23 +15,42 @@
 
 ## 제작
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="200">
       <a href="https://github.com/sonotri">
-        <img src="https://github.com/sonotri.png" width="96" alt="sonotri" style="border-radius: 50%;" /><br />
+        <img
+          src="https://github.com/sonotri.png"
+          width="96"
+          alt="sonotri"
+        />
+        <br />
         <strong>sonotri</strong>
       </a>
       <br />
-      <sub>Planning · Development · Design<br />Security Scenario</sub>
+      <sub>
+        Planning · Development · Design
+        <br />
+        Security Scenario
+      </sub>
     </td>
-    <td align="center">
+
+    <td align="center" width="200">
       <a href="https://github.com/yebbis">
-        <img src="https://github.com/yebbis.png" width="96" alt="Yebbi" style="border-radius: 50%;" /><br />
+        <img
+          src="https://github.com/yebbis.png"
+          width="96"
+          alt="Yebbi"
+        />
+        <br />
         <strong>Yebbi</strong>
       </a>
       <br />
-      <sub>Planning · Development · Design<br />Security Scenario</sub>
+      <sub>
+        Planning · Development · Design
+        <br />
+        Security Scenario
+      </sub>
     </td>
   </tr>
 </table>
