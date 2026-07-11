@@ -66,7 +66,7 @@
         <img src="https://github.com/jenna8225.png" width="96" alt="jenna8225" /><br />
         <strong>bage2room</strong>
       </a><br />
-      <sub> Development · Design </sub>
+      <sub> Development · Design <br/> Platform</sub>
     </td>
   </tr>
 </table>
