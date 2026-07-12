@@ -68,5 +68,19 @@
       </a><br />
       <sub> Development · Design <br/> Platform</sub>
     </td>
+    <td align="center" width="200">
+      <a href="https://github.com/y00nsssu">
+        <img src="https://github.com/y00nsssu.png" width="96" alt="y00nsssu" /><br />
+        <strong>y00nsssu</strong>
+      </a><br />
+      <sub> Development · Design <br/> Platform</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/2seoyg">
+        <img src="https://github.com/2seoyg.png" width="96" alt="2seoyg" /><br />
+        <strong>2seoyg</strong>
+      </a><br />
+      <sub> Development · Design <br/> Platform</sub>
+    </td>
   </tr>
 </table>
