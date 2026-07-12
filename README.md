@@ -52,35 +52,35 @@
         <img src="https://github.com/sonotri.png" width="96" alt="sonotri" /><br />
         <strong>sonotri</strong>
       </a><br />
-      <sub>Planning · Development · Design<br />Security Scenario</sub>
+      <sub>Planning · Development · Design Security Scenario</sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/yebbis">
         <img src="https://github.com/yebbis.png" width="96" alt="Yebbi" /><br />
         <strong>Yebbi</strong>
       </a><br />
-      <sub>Planning · Development · Design<br />Security Scenario</sub>
+      <sub>Planning · Development · Design Security Scenario</sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/jenna8225">
         <img src="https://github.com/jenna8225.png" width="96" alt="jenna8225" /><br />
         <strong>bage2room</strong>
       </a><br />
-      <sub> Development · Design <br/> Platform</sub>
+      <sub> Development · Design Platform</sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/y00nsssu">
         <img src="https://github.com/y00nsssu.png" width="96" alt="y00nsssu" /><br />
         <strong>y00nsssu</strong>
       </a><br />
-      <sub> Development · Design <br/> Platform</sub>
+      <sub> Development · Design Platform</sub>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/2seoyg">
         <img src="https://github.com/2seoyg.png" width="96" alt="2seoyg" /><br />
         <strong>2seoyg</strong>
       </a><br />
-      <sub> Development · Design <br/> Platform</sub>
+      <sub> Development · Design Platform</sub>
     </td>
   </tr>
 </table>
