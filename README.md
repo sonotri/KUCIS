@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ctf.swuswing.com/"><strong>게임 플레이하기</strong></a>
+  <a href="https://sonotri.github.io/KUCIS/"><strong>게임 플레이하기</strong></a>
 </p>
 
-<br />
+<br
 
 ## 프로젝트 소개
 
